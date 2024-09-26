@@ -1,1 +1,0 @@
-cat("GOOGLE",file="Hwlloworld.txt",append=TRUE)

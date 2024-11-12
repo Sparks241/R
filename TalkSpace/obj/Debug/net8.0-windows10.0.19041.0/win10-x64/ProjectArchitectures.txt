@@ -1,0 +1,1 @@
+G:\AllCodes\VisualStudio\TalkSpace\TalkSpace\TalkSpace.csproj;x64

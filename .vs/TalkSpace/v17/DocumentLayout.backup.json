@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\AllCodes\\VisualStudio\\TalkSpace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|g:\\allcodes\\visualstudio\\talkspace\\talkspace\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|solutionrelative:talkspace\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|g:\\allcodes\\visualstudio\\talkspace\\talkspace\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|solutionrelative:talkspace\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|g:\\allcodes\\visualstudio\\talkspace\\talkspace\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|solutionrelative:talkspace\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|g:\\allcodes\\visualstudio\\talkspace\\talkspace\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|solutionrelative:talkspace\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|g:\\allcodes\\visualstudio\\talkspace\\talkspace\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|solutionrelative:talkspace\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|g:\\allcodes\\visualstudio\\talkspace\\talkspace\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67FE2506-A707-4E00-BF88-25A985DD8FBE}|TalkSpace\\TalkSpace.csproj|solutionrelative:talkspace\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\App.xaml",
+              "RelativeDocumentMoniker": "TalkSpace\\App.xaml",
+              "ToolTip": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\App.xaml",
+              "RelativeToolTip": "TalkSpace\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-03T16:37:13.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TalkSpace\\AppShell.xaml",
+              "ToolTip": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\AppShell.xaml",
+              "RelativeToolTip": "TalkSpace\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-03T16:37:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TalkSpace\\MainPage.xaml",
+              "ToolTip": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\MainPage.xaml",
+              "RelativeToolTip": "TalkSpace\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-03T16:39:29.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TalkSpace\\MainPage.xaml.cs",
+              "ToolTip": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\MainPage.xaml.cs",
+              "RelativeToolTip": "TalkSpace\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:39:30.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TalkSpace\\AppShell.xaml.cs",
+              "ToolTip": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\AppShell.xaml.cs",
+              "RelativeToolTip": "TalkSpace\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:01:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TalkSpace\\App.xaml.cs",
+              "ToolTip": "G:\\AllCodes\\VisualStudio\\TalkSpace\\TalkSpace\\App.xaml.cs",
+              "RelativeToolTip": "TalkSpace\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:01:19.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
